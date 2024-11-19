@@ -1,51 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemapindex xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-page-1.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-page-1.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-news.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-news.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-event.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-event.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-staffdirectory.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-staffdirectory.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-businessdirectory.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-businessdirectory.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-servicedirectory.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-rfp.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-rfp.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-photoalbum.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-photoalbum.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-facilitydirectory.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
   <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-job.xml</loc>
-    <lastmod>2024-04-27</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-facilitydirectory.xml</loc>
-    <lastmod>2024-04-27</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-onlinepolls.xml</loc>
-    <lastmod>2024-04-27</lastmod>
-  </sitemap>
-  <sitemap>
-    <loc>https://westpalmbeach.prod.govaccess.org/sitemap-formbuilder.xml</loc>
+    <loc>https://jorgemartinez00.github.io/sitemap/sitemap-formbuilder.xml</loc>
     <lastmod>2024-04-27</lastmod>
   </sitemap>
 </sitemapindex>
