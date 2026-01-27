@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <div class="video-component">
+        <div data-component="bfs-video" data-video-url="https://www.youtube.com/watch?v=6BxFjMakDNc" class="">
+            <div class="video">
+                <div class="video__link">
+                    <div class="video__thumbnail">
+                        <div class="video__details">
+                            <p class="video__description p1"> Watch Video </p>
+                            <p class="video__timestamp small"> 1:59 </p>
+                        </div> <button class="video__cta"> <span class="sr-only">Play Video</span>
+                            <div class="play-icon"></div>
+                        </button>
+                    </div>
+                    <div
+                        class="video__iframe-container video__iframe-container--ratio video__iframe-container--bg-black">
+                        <dialog class="video-modal video-modal--light">
+                            <div class="video-modal__h-constraint">
+                                <div class="video-modal__v-constraint">
+                                    <form method="dialog" class="video-modal__close-form"> <button
+                                            aria-label="Close dialog" class="video-modal__close-button"> <span
+                                                class="sr-only">Close dialog</span> </button> </form>
+                                    <div aria-label="Macquarie video description" data-player=""></div>
+                                </div>
+                            </div>
+                        </dialog>
+                    </div> <img src="/content/dam/bfs/showcase/images/macquarie-video-poster.png"
+                        alt="This is a sample alternative text" class="video__poster">
+                    <div class="video__loading-indicator video__loading-indicator--light">
+                        <div class="video__loading-indicator__flex-wrapper">
+                            <div class="video__loading-indicator__animation-wrapper">
+                                <div class="double-bounce1"></div>
+                                <div class="double-bounce2"></div>
+                            </div>
+                            <p>Loading video...</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
